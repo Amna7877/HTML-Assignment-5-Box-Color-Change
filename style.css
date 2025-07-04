@@ -1,0 +1,358 @@
+body {
+    background-color: aliceblue;
+}
+
+h2 {
+    font-family: cursive;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+div {
+    margin-left: 100px;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 10px;
+    margin: auto;
+}
+
+td {
+    background-color: rgb(245, 245, 245);
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 20px;
+    font-weight: bold;
+    color: transparent;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+td.one:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(230, 120, 227);
+    text-align: center;
+    color: #000;
+}
+
+
+td.two:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(114, 98, 233);
+    text-align: center;
+    color: #000;
+}
+
+
+
+td.three:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(85, 232, 134);
+    text-align: center;
+    color: #000;
+}
+
+
+td.four:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(195, 236, 84);
+    text-align: center;
+    color: #000;
+}
+
+
+
+td.five:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(151, 85, 232);
+    text-align: center;
+    color: #000;
+}
+
+
+
+td.six:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(232, 176, 85);
+    text-align: center;
+    color: #000;
+}
+
+
+
+td.seven:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(235, 108, 83);
+    text-align: center;
+    color: #000;
+}
+
+
+
+td.eight:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(232, 85, 124);
+    text-align: center;
+    color: #000;
+}
+
+
+td.nine:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(240, 53, 181);
+    text-align: center;
+    color: #000;
+}
+
+
+
+td.ten:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(65, 82, 237);
+    text-align: center;
+    color: #000;
+}
+
+
+
+td.eleven:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(66, 181, 238);
+    text-align: center;
+    color: #000;
+}
+
+
+
+td.twelve:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(49, 223, 89);
+    text-align: center;
+    color: #000;
+}
+
+
+
+td.thirteen:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(54, 228, 62);
+    text-align: center;
+    color: #000;
+}
+
+
+
+td.fourteen:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(126, 219, 45);
+    text-align: center;
+    color: #000;
+}
+
+
+
+td.fifteen:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(176, 197, 54);
+    text-align: center;
+    color: #000;
+}
+
+
+
+
+td.sixteen:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(215, 170, 44);
+    text-align: center;
+    color: #000;
+}
+
+
+
+td.seventeen:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(234, 116, 47);
+    text-align: center;
+    color: #000;
+}
+
+
+
+td.eighteen:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(20, 83, 103);
+    text-align: center;
+    color: #000;
+}
+
+
+
+td.nineteen:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(185, 60, 137);
+    text-align: center;
+    color: #000;
+}
+
+
+
+td.twenty:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(114, 232, 41);
+    text-align: center;
+    color: #000;
+}
+
+td.twentyone:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(136, 53, 53);
+    text-align: center;
+    color: #000;
+}
+
+td.twentytwo:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(156, 97, 38);
+    text-align: center;
+    color: #000;
+}
+
+td.twentythree:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(192, 150, 35);
+    text-align: center;
+    color: #000;
+}
+
+td.twentyfour:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(246, 240, 50);
+    text-align: center;
+    color: #000;
+}
+
+td.twentyfive:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(168, 191, 23);
+    text-align: center;
+    color: #000;
+}
+
+td.twentysix:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(145, 249, 9);
+    text-align: center;
+    color: #000;
+}
+
+td.twentyseven:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(3, 174, 66);
+    text-align: center;
+    color: #000;
+}
+
+td.twentyeight:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(3, 223, 238);
+    text-align: center;
+    color: #000;
+}
+
+td.twentynine:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(45, 84, 240);
+    text-align: center;
+    color: #000;
+}
+
+td.thirty:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(113, 38, 211);
+    text-align: center;
+    color: #000;
+}
+
+td.thirtyone:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(184, 87, 236);
+    text-align: center;
+    color: #000;
+}
+
+td.thirtytwo:hover {
+    border: 2px solid#3399ff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(251, 11, 255);
+    text-align: center;
+    color: #000;
+}
